@@ -6,7 +6,7 @@ public class BowlingGame {
     private int rollIndex = 0;
 
     /**
-     * Rolls the bowling ball
+     * Rolls the bowling ball_
      *
      * @param pins The total number of knocked down pins in a roll
      */
